@@ -14,7 +14,7 @@
 </script>
 
 <script lang="ts">
-	export let post: { slug: string; title: string, html: any };
+	export let post: { slug: string; title: string; html: any };
 </script>
 
 <style>
