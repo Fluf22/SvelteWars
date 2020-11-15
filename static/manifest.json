@@ -1,8 +1,8 @@
 {
 	"background_color": "#ffffff",
 	"theme_color": "#333333",
-	"name": "TODO",
-	"short_name": "TODO",
+	"name": "Svelte Wars",
+	"short_name": "Svelte Wars: a Star Wars front-end made with Svelte and GraphQL",
 	"display": "minimal-ui",
 	"start_url": "/",
 	"icons": [

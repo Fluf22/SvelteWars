@@ -1,5 +1,5 @@
 <script lang="ts">
-	import Nav from '../components/Nav.svelte';
+	import Nav from "../components/Nav.svelte";
 
 	export let segment: string;
 </script>
@@ -15,8 +15,8 @@
 	}
 </style>
 
-<Nav {segment}/>
+<Nav {segment} />
 
 <main>
-	<slot></slot>
+	<slot />
 </main>
